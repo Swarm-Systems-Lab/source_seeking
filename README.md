@@ -11,7 +11,12 @@ This repository contains a collection of Python simulations we use to numericall
 **ABSTRACT:**
 
 ```
-WIP
+@misc{jbautista2025distributedss,
+  title={Fully distributed and resilient source seeking for robot swarms}, 
+  author={Jesus Bautista and Antonio Acuaviva and Jose Hinojosa and Weijia Yao and Juan Jimenez and Hector Garcia de Marina},
+  year={2025},
+  url={},
+}
 ```
 
 ## Research Conference Paper
